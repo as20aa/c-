@@ -13,4 +13,9 @@ system("pasuse");
 [安装visual studio 2017的github工具包](https://visualstudio.github.com/)    
 [友情链接](https://github.com/github/VisualStudio)    
 [如何使用](https://services.github.com/on-demand/windows/visual-studio)
-# 小测试
+# 如何将已经完成的项目上传到github
+* 打开visual studio 2017，打开相应的项目文件
+* 点击右侧的团队资源管理
+* 点击github的publish按钮
+* 按照提示填写介绍，点击pull按钮
+* 等待上传同步完成
