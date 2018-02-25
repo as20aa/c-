@@ -11,3 +11,4 @@ system("pasuse");
   作为替代品，也可以在发布时让人看到运行结果并确认
 # visual studio 2017中使用github进行版本控制和发布
 [安装visual studio 2017的github工具包](https://visualstudio.github.com/)
+[友情链接](https://github.com/github/VisualStudio)
